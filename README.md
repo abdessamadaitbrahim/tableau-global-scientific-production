@@ -63,6 +63,6 @@ tableau-global-scientific-production/
 
 ## Authors
 
-Abdessamad Ait Brahim ([@abdessamadaitbrahim](https://github.com/abdessamadaitbrahim)) and Ayyoub Amazal
+Abdessamad Ait Brahim ([@abdessamadaitbrahim](https://github.com/abdessamadaitbrahim)) 
 
 Program: Big Data and AI. Module: Data Visualization.

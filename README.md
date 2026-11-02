@@ -34,6 +34,8 @@ Interactive controls: indicator selector (documents or citations), year and size
 
 ## Preview
 
+![Leading countries](docs/images/dashboard-trends.png)
+
 ![Analysis by country](docs/images/dashboard-countries.png)
 
 ![H-index overview](docs/images/dashboard-h-index.png)
